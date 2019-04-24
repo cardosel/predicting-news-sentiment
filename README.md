@@ -1,4 +1,3 @@
-# NYT Data Science Interview Assignment
 
 ## Data Description
 
@@ -41,4 +40,4 @@ Should return data of the schema:
 
 - Please submit solutions as pushed+committed changes; please ask any questions as github issues.
 
-Best regards, The Data Science Group, The New York Times
+
